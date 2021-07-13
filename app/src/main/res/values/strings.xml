@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tree</string>
+    <string-array name="lotes_zona_array">
+        <item>Lote1</item>
+        <item>Lote2</item>
+        <item>Lote3</item>
+        <item>Lote4</item>
+        <item>Lote5</item>
+        <item>Lote6</item>
+        <item>Lote7</item>
+        <item>Lote8</item>
+        <item>Lote9</item>
+        <item>Lote10</item>
+    </string-array>
+</resources>
